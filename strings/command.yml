@@ -6,9 +6,9 @@
 
 # Bot Commands
 PING_COMMAND : ["ping", "بينج"]
-START_COMMAND : ["start", "/start", "تفعيل"]
-HELP_COMMAND : ["help", "مساعده"]
-SETTINGS_COMMAND : ["settings", "setting", "اعدادات", "الاعدادت", "/اعدادات", "/الاعدادات", "/setting"]
+START_COMMAND : ["start", "/start", "TM"]
+HELP_COMMAND : ["help", "هاريكار"]
+SETTINGS_COMMAND : ["settings", "setting", "اعدادات", "الاعدادت" ," ,"اعدادات", "/ضبط", "/setting"]
 RELOAD_COMMAND : ["admincache", "reload", "ريلود"]
 GSTATS_COMMAND : ["gstats","الاحصائيات","احصائيات"]
 STATS_COMMAND : ["stats"]
